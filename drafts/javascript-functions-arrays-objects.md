@@ -3,8 +3,10 @@ title: "JavaScript復習②：関数・配列・オブジェクトで処理を�
 emoji: "🧩"
 type: "tech"
 topics: ["javascript", "初心者", "学習"]
-published: true
+published: false
 ---
+
+> この原稿は公開記事①へ統合済みです。単独記事としての公開予定はありません。
 
 [前回](https://zenn.dev/japan_pds838a/articles/javascript-basics-types-control)は入力値の型と制御構文を整理しました。今回は関数で処理をまとめ、配列やオブジェクトで複数の値を扱います。授業資料の17〜18フォルダーのテーマに対応する復習です。
 

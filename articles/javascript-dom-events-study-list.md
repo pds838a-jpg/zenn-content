@@ -1,5 +1,5 @@
 ---
-title: "JavaScript復習③：DOMとイベントで学習リストを作る"
+title: "JavaScript復習②：DOMとイベントで学習リストを作る"
 emoji: "📝"
 type: "tech"
 topics: ["javascript", "dom", "初心者"]
@@ -130,7 +130,7 @@ function handleClick(event) {
 
 実行用コードは [GitHubのjavascriptフォルダー](https://github.com/pds838a-jpg/frontend-study/tree/main/javascript) にあります。07で要素の選択・テキスト・クラスの変更を試し、08で追加・完了・削除を組み合わせます。
 
-前の記事: [関数・配列・オブジェクト](https://zenn.dev/japan_pds838a/articles/javascript-functions-arrays-objects)
+前の記事: [変数・制御構文・関数・配列・オブジェクト](https://zenn.dev/japan_pds838a/articles/javascript-basics-types-control)
 
 ## 参考
 
