@@ -3,7 +3,7 @@ title: "Javaの基本型とif・繰り返しを小さな例で復習"
 emoji: "☕"
 type: "tech"
 topics: ["java", "初心者", "学習"]
-published: true
+published: false
 ---
 
 授業のBeginner (1)で扱ったPrimitive Type、`if`、`for`、`while`、`break`、`continue`を、短いコードで整理してみる。構文を個別に覚えるだけでなく、変数の値がどう変わり、どの条件で処理が分かれるかを追いたい。
