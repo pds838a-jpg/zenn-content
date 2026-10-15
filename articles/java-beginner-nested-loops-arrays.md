@@ -52,4 +52,4 @@ double average = (double) total / scores.length;
 
 行数や列数を変えると表示件数がどう変わるか、点数を一つ追加すると平均がどう変わるかを先に予想してから実行すると、ループと配列の関係を確認しやすい。
 
-実行用サンプルと復習ノートは[GitHubのJavaフォルダー](https://github.com/pds838a-jpg/frontend-study/tree/main/java)に置いている。この記事は授業テーマをもとにAIの支援で作った復習メモで、実行結果や理解度を本人の経験として述べるものではない。
+実行用サンプルと復習ノートは[Java専用のGitHubリポジトリ](https://github.com/pds838a-jpg/java-study)に置いている。この記事は授業テーマをもとにAIの支援で作った復習メモで、実行結果や理解度を本人の経験として述べるものではない。

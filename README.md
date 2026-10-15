@@ -9,4 +9,4 @@ Zennで公開している記事の原稿を管理しています。
 - [Javaの基本型とif・繰り返し](https://zenn.dev/japan_pds838a/articles/java-beginner-primitives-condition-loops)
 - [Javaの二重ループと配列](https://zenn.dev/japan_pds838a/articles/java-beginner-nested-loops-arrays)
 
-学習用コードは[frontend-study](https://github.com/pds838a-jpg/frontend-study)にまとめています。Javaは[javaフォルダー](https://github.com/pds838a-jpg/frontend-study/tree/main/java)にあります。
+フロントエンド学習コードは[frontend-study](https://github.com/pds838a-jpg/frontend-study)、Java学習コードは[java-study](https://github.com/pds838a-jpg/java-study)にまとめています。

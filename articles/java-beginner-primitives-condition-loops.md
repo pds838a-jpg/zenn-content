@@ -83,4 +83,4 @@ for (int day = 1; day <= 7; day++) {
 - `continue`を`break`に置き換えると、何日目で終わるか。
 - `while`の条件に使う変数を更新しなかったら、どうなるか。
 
-実行用の4つのサンプルと復習ノートは[GitHubのJavaフォルダー](https://github.com/pds838a-jpg/frontend-study/tree/main/java)にまとめている。この記事は授業テーマをもとにAIの支援で作った復習メモで、実行結果や理解度を本人の経験として述べるものではない。
+実行用の4つのサンプルと復習ノートは[Java専用のGitHubリポジトリ](https://github.com/pds838a-jpg/java-study)にまとめている。この記事は授業テーマをもとにAIの支援で作った復習メモで、実行結果や理解度を本人の経験として述べるものではない。
